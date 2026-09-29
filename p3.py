@@ -65,3 +65,6 @@ if __name__ == "__main__":
         img_path = sys.argv[1]
         thresh_val = int(sys.argv[2]) if len(sys.argv) > 2 else 127
         threshold_grayscale(img_path, thresh_val)
+        
+        
+print('done')
