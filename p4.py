@@ -38,3 +38,6 @@ plt.show()
 
 print(f"Threshold value used : {T}")
 print(f"Pixels in result     : only 0 and 255")
+
+
+print('done')
